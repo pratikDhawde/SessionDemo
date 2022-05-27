@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeaveManagementApp", "LeaveManagementApp\LeaveManagementApp.fsproj", "{AC738353-5A69-4447-A6CC-B24833026059}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagement_App", "LeaveManagement_App\LeaveManagement_App.csproj", "{D2B61BB5-8440-436E-9729-844B5449C522}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC738353-5A69-4447-A6CC-B24833026059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC738353-5A69-4447-A6CC-B24833026059}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC738353-5A69-4447-A6CC-B24833026059}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC738353-5A69-4447-A6CC-B24833026059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B61BB5-8440-436E-9729-844B5449C522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B61BB5-8440-436E-9729-844B5449C522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B61BB5-8440-436E-9729-844B5449C522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B61BB5-8440-436E-9729-844B5449C522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
